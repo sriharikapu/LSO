@@ -1,0 +1,22 @@
+
+Log started (V22.1.1.0) Sun Apr  2 15:50:03 2023
+
+No problem read.
+CPLEX Error  1607: Line 3: Expected '+' or '-', found 'c'.
+Warning: 'End' missing.
+
+Log started (V22.1.1.0) Sun Apr  2 15:59:52 2023
+
+Version identifier: 22.1.1.0 | 2022-11-26 | 9160aff4d
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.00 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual infeasibility =             0.000000
+Iteration:     2   Dual objective     =             8.000000
+
+Dual simplex - Optimal:  Objective =  8.0000000000e+00
+Solution time =    0.00 sec.  Iterations = 2 (1)
+Deterministic time = 0.00 ticks  (3.12 ticks/sec)
+
